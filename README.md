@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I am Oleh.<br><br>Backend developer focused on Python/Django.<br><br>- 🔭 Currently building backend solutions with **Django** and **Django REST Framework**<br>- 🛠️ Deploy and maintain infrastructure on **Hetzner Cloud** and dedicated servers (Nginx, Gunicorn, PostgreSQL, Docker, SSL/Certbot)<br>- 🎓 Bachelor's degree in Computer Science, Petro Mohyla Black Sea National University<br>- 📍 Ukraine<br>- 🌱 Always learning new tools and best practices for development
+👋 Hi, I am Oleh.<br><br>Backend developer focused on Python/Django.<br><br> 🔭 Currently building backend solutions with **Django** and **Django REST Framework**<br> 🛠️ Deploy and maintain infrastructure on **Hetzner Cloud** and dedicated servers (Nginx, Gunicorn, PostgreSQL, Docker, SSL/Certbot)<br> 🎓 Bachelor's degree in Computer Science, Petro Mohyla Black Sea National University<br> 📍 Ukraine<br> 🌱 Always learning new tools and best practices for development
 
 
 ## 🌐 Socials:
